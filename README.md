@@ -6,7 +6,7 @@
 ## Pre-requisite
 - Create personal Microsoft account ([create one here](https://outlook.live.com/owa/?nlp=1&signup=1)), and gain access to an Azure subscription by doing the following:
     - (Option 1) Login [Azure Portal](https://portal.azure.com/) with that account, and continue registration for free credit. You will need to register your credit card to continue. This is good if you want to continue using the resources you've created.
-    - (Option 2) Share your account (email address) with the instructor. The instructor will add you in an existing subscription for your temporary usage during the session.
+    - (Option 2) Share your Microsoft Account (email address) with the instructor. The instructor will add you in an existing subscription for your temporary usage during this exercise. Before beginning, make sure you can login to Azure at https://portal.azure.com using your Microsoft Account. Follow instruction and choose the right directory/tenant, subscription, and confirm permission. Azure ML service Workspaces may have been created for you in advance.
 
 - Get familiar with the basic [Azure AI platform overview](https://azure.microsoft.com/en-us/overview/ai-platform/).
 
