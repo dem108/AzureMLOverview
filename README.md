@@ -14,9 +14,8 @@
 - 13:00-13:50 What is Azure, and Azure AI Platform. Pre-built AI demos (Intelligent Kiosk and [site](https://azure.microsoft.com/en-us/services/cognitive-services/)).
 - 14:00-14:50 Microsoft approach to Custom AI
     - Solution portfolio and [reference architecture](https://github.com/dem108/AMLWorkshop-IotEdge-DevOps/blob/master/doc/decks/Microsoft%20AI%20Architecture%20one-slider-EN-v20190513.pdf).
-    - Sample case using Pre-built AI and Custom AI together: [MCW](https://microsoftcloudworkshop.com/)
-      - [MCW-Cognitive-services-and-deep-learning](https://github.com/microsoft/MCW-Cognitive-services-and-deep-learning)
-      - more coming
+    - Sample case using Pre-built AI and Custom AI together: [MCW-Cognitive-services-and-deep-learning](https://github.com/microsoft/MCW-Cognitive-services-and-deep-learning)
+      - More samples at [MCW](https://microsoftcloudworkshop.com/)
     - Real world case studies
 - 15:00-16:50 Experience Azure AI: Azure Machine Learning service
     - Concepts ([Level 200](https://github.com/dem108/AzureMLOverview/blob/master/doc/decks/Azure%20Machine%20Learning%20service%20-%20L200%20v20181205.pdf), [Level 300](https://github.com/dem108/AzureMLOverview/blob/master/doc/decks/Azure%20Machine%20Learning%20service%20-%20L300%20v20181205.pdf))
