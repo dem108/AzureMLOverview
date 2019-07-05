@@ -18,6 +18,7 @@
       - More samples at [MCW](https://microsoftcloudworkshop.com/)
     - Real world case studies
 - 15:00-16:50 Experience Azure AI: Azure Machine Learning service
+    - Check hands-on environment: choose right directory/tenant, subscription, confirm permission
     - Concepts ([Level 200](https://github.com/dem108/AzureMLOverview/blob/master/doc/decks/Azure%20Machine%20Learning%20service%20-%20L200%20v20181205.pdf), [Level 300](https://github.com/dem108/AzureMLOverview/blob/master/doc/decks/Azure%20Machine%20Learning%20service%20-%20L300%20v20181205.pdf))
     - Hands-on: Use [Azure Notebooks](https://notebooks.azure.com/) for free, import [Sample](https://github.com/Azure/MachineLearningNotebooks/), and train some models
         - Authenticate, run and track the experiments using Jupyter Widget or Portal
@@ -25,7 +26,7 @@
         - [Concept](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-automated-ml)
         - Demo: sample run seen from Portal
         - Hands-on: Automated ML with [Portal](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-create-portal-experiments) (use Azure ML Compute, NYC Taxi tip regression sample)
-        - Hands-on: Automated ML with [SDK](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-configure-auto-train))
+        - Hands-on: Automated ML with [SDK](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-configure-auto-train)
     - Demo: Deploying the services
     - Demo: [MLOps](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-model-management-and-deployment)
 - Questions and answers
