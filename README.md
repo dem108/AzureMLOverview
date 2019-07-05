@@ -30,6 +30,7 @@
         - Hands-on: Automated ML with [Portal](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-create-portal-experiments) (use Azure ML Compute, NYC Taxi tip regression sample)
         - Hands-on: Automated ML with [SDK](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-configure-auto-train)
     - Demo: Deploying the services
+    - Demo: [Visual Interface](https://docs.microsoft.com/en-us/azure/machine-learning/service/ui-tutorial-automobile-price-train-score)
     - Demo: [MLOps](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-model-management-and-deployment)
 - Questions and answers
 
