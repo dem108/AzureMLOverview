@@ -18,7 +18,9 @@
       - More samples at [MCW](https://microsoftcloudworkshop.com/)
     - Real world case studies
 - 15:00-16:50 Experience Azure AI: Azure Machine Learning service
-    - Check hands-on environment: choose right directory/tenant, subscription, confirm permission
+    - Check hands-on environment
+      - Choose right directory/tenant, subscription, confirm permission
+      - Under the assigned resource group, create Azure ML service Workspace `aml-service-project-xx`
     - Concepts ([Level 200](https://github.com/dem108/AzureMLOverview/blob/master/doc/decks/Azure%20Machine%20Learning%20service%20-%20L200%20v20181205.pdf), [Level 300](https://github.com/dem108/AzureMLOverview/blob/master/doc/decks/Azure%20Machine%20Learning%20service%20-%20L300%20v20181205.pdf))
     - Hands-on: Use [Azure Notebooks](https://notebooks.azure.com/) for free, import [Sample](https://github.com/Azure/MachineLearningNotebooks/), and train some models
         - Authenticate, run and track the experiments using Jupyter Widget or Portal
